@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jindong
+first_name: Caizi
 middle_name: 
-last_name: Wang
-email: jindong.wang@microsoft.com
+last_name: Li
+email: cz.li@siat.ac.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -49,22 +49,22 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: jindongwang # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: jd92wang # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: hBZ_tKsAAAAJ # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: https://dblp.org/pid/19/2969-1.html # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
+github_username: licaizi # your GitHub user name
+# gitlab_username: # your GitLab user name
+# twitter_username: jd92wang # your Twitter handle
+# linkedin_username: # your LinkedIn user name
+scholar_userid: -dZM0ogAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-7947-5345
+# medium_username: # your Medium username
+# quora_username: # your Quora username
+# publons_id: # your ID on Publons
+research_gate_profile: Caizi Li # your profile on ResearchGate
+# blogger_url: # your blogger URL
+# work_url: # work page URL
+# keybase_username: # your keybase user name
+# wikidata_id: # your wikidata id
+dblp_url: https://dblp.org/pid/236/7989.html # your DBLP profile url
+# stackoverflow_id: #your stackoverflow id
 
 rss_icon: true
 
